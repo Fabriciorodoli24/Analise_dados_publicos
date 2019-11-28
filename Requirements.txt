@@ -1,0 +1,9 @@
+Bibliotecas utilizadas
+matplotlib.pyplot
+pandas
+
+Dados utilizados
+micro_censo_escolar_2014
+micro_censo_escolar_2015
+micro_censo_escolar_2016
+micro_censo_escolar_2017
